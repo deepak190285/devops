@@ -1,4 +1,4 @@
-# DevOps Trials 
+# DevOps Trials   
 
 Goal: ( Java + Node )
 a. Set up a pipeline.
