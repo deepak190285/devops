@@ -1,6 +1,6 @@
 # DevOps Trials   
 
-Goal: ( Java + Node )  
+### Goal: ( Java + Node )  
 a. Set up a pipeline.  
 b. Add unit tests.  
 c. Add service tests.  
